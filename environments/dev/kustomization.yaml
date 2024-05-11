@@ -6,3 +6,6 @@ images:
 - digest: sha256:bd0392c0e4bbf0b3beebfe3cc8cdf9a299ceead94230698da0f595c09542ecbe
   name: quay.io/bgirriam/vote-api
   newName: quay.io/bgirriam/vote-api
+- digest: sha256:b9384fbe0bcb978e2ee625f52660e8be555d8e8dc90d7327b96e11d1db588672
+  name: quay.io/bgirriam/vote-ui
+  newName: quay.io/bgirriam/vote-ui
